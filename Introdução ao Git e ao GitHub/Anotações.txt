@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+link para donwload do Git: https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+=======
+link para donwload do Git: https://git-scm.com/download/win
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+>>>>>>> 5cb4d7223e2a1c4e777c812d6258cc08a38e720c
