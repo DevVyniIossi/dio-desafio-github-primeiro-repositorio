@@ -1,0 +1,4 @@
+Módulo explicatio de como os conflitos acontecem devido as variações de versões de arquivos, como quando você possui um arquivo antiga na máquina e vai mandar um mais atualizado no GitHub, entra em conflito.
+
+
+Antes de enviar o código atualizado para o GitHub, tem que fazer uma "junção" da variação de arquivos, onde ápos isso o GitHub, vai juntar os dois arquivos em conflitos e você que vai escolher o ideal, e após isso, dar o comando git push para introduzir no repositório do Github;
