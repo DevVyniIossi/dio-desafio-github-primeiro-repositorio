@@ -1,0 +1,1 @@
+Nesse módulo ensina a inicializar o Git e seus primeiros comandos.
