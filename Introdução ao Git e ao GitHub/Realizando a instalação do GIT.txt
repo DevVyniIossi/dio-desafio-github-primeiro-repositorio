@@ -1,0 +1,3 @@
+Neste módulo é explicado o passo a passo para a instalação do Git na nossa máquina.
+
+Ensina para executar a instalação tanto em computadores usando sistema operacional como Windows/Linux e macOS.
