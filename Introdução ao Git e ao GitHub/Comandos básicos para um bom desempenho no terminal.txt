@@ -1,0 +1,14 @@
+Nesse módulo o professor aborda sobre comandos básicos para um bom desempenho no terminal.
+Explica os comandos de como:
+- Mudar de pastas.
+- Listas as pastas.
+- Criar pastas/arquivos.
+- Deletar pastas/arquivos.
+
+Explica também as principais diferenças de comando entre Windows e Unix:
+
+Windos               Unix
+- cd                - cd
+- dir               - ls
+- mkdir             - mkdir
+- del/rmdir         - rm - rf
