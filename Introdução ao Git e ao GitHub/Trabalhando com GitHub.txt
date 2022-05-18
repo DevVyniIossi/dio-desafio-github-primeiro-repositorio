@@ -1,0 +1,3 @@
+Módulo explicativo de como o GitHub trabalha.
+
+Onde aborda sobre criação de conta, criação de repositório remoto, explica também sobre como inserir o repositório local no repositório remoto.
